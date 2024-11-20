@@ -18,6 +18,15 @@
 
 Установка Wazuh-agent на клиенте
 
+![image](https://github.com/user-attachments/assets/0a7ee30d-60d8-4c78-be56-5b789ce509f0)
+
+![image](https://github.com/user-attachments/assets/f505c754-bab9-4aa2-852e-0631eba69f81)
+
+
+
+
+
+
 
 
 
