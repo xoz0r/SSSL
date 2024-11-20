@@ -22,9 +22,11 @@
 
 ![image](https://github.com/user-attachments/assets/f505c754-bab9-4aa2-852e-0631eba69f81)
 
+![image](https://github.com/user-attachments/assets/d56a77e2-3cd6-4220-ada3-2b59d5dbb6c1)
 
+Сканирование на уязвимости
 
-
+![image](https://github.com/user-attachments/assets/b0efb5d1-7bc5-4379-ab79-12efd9551224)
 
 
 
