@@ -24,9 +24,32 @@
 
 ![image](https://github.com/user-attachments/assets/d56a77e2-3cd6-4220-ada3-2b59d5dbb6c1)
 
-Сканирование на уязвимости
+### Сканирование на уязвимости
 
 ![image](https://github.com/user-attachments/assets/b0efb5d1-7bc5-4379-ab79-12efd9551224)
+
+### Создание проверки целостности файлов
+
+![image](https://github.com/user-attachments/assets/88e0af8d-aede-4bc6-afd2-38527bab4372)
+
+### Настройка выявлений уязвимостей в соответсвии с документацией
+
+![image](https://github.com/user-attachments/assets/6e2cabf4-b9a6-4baf-a43b-3b4ad6cecd14)
+
+### Выявление скрытых процессов
+
+![image](https://github.com/user-attachments/assets/7060691b-3400-4d3d-b4af-f854d9482746)
+
+### Выявление SQL-инъекций
+
+![image](https://github.com/user-attachments/assets/c5e37314-2e00-4d3f-b7a3-cba57d0a8b38)
+
+
+
+
+
+
+
 
 
 
