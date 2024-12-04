@@ -7,8 +7,11 @@
 ### 2) Установка WAZUH.
 ![image](https://github.com/user-attachments/assets/c6c821c6-e34a-4add-99ab-431b918ef47b)
 
+### Агент
+![image](https://github.com/user-attachments/assets/8f431b90-6421-42ee-9d25-b1c7c47bc23a)
 
-
+### Агент подцепился
+![image](https://github.com/user-attachments/assets/292d8808-ca30-4c8d-a67e-1d8afd81062f)
 
 
 
