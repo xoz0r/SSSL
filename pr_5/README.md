@@ -16,9 +16,7 @@
 ### Suricata agent
 ![image](https://github.com/user-attachments/assets/0ca27a38-b58e-49d9-8962-bc750d786251)
 
-
-
-Добавить блок для анализа логов Suricata
+### Блок для анализа логов Suricata
 ![image](https://github.com/user-attachments/assets/aabe0aa1-cd3f-401c-9406-3661d8f742c1)
 
 
