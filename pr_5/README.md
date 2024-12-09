@@ -43,13 +43,21 @@ Nessus не дает вообще скачаться (санкции...).
 
 ![image](https://github.com/user-attachments/assets/40717a39-fa9f-4fd4-a51b-9b86244d9d8a)
 
+### Yara
 
+![image](https://github.com/user-attachments/assets/ad7884b8-f129-49b8-ba0e-b2a883b9a2d1)
 
+![image](https://github.com/user-attachments/assets/b929ced6-33a4-4e6d-9f3b-ed2996af1b03)
 
+Качаем правила
 
+![image](https://github.com/user-attachments/assets/78b94f51-6195-41ba-ac0e-c58d7a14fd7d)
 
+![image](https://github.com/user-attachments/assets/e4fa71d6-0aab-4929-b9a7-2f4cb9375040)
 
+![image](https://github.com/user-attachments/assets/7c487ad2-8723-4981-b9b2-a82c2d7d30da)
 
+![image](https://github.com/user-attachments/assets/22ea11d5-31c1-427c-9874-3b8d6e71bbd2)
 
 
 
