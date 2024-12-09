@@ -19,9 +19,29 @@
 ### Блок для анализа логов Suricata
 ![image](https://github.com/user-attachments/assets/aabe0aa1-cd3f-401c-9406-3661d8f742c1)
 
+![image](https://github.com/user-attachments/assets/71855ea1-3e43-495c-831f-13917e063d3f)
 
+### На защищаемом клиенте поднята Apache
+![image](https://github.com/user-attachments/assets/68466ad4-cebe-4057-a49e-7b73fd089ce5)
 
+### Сканер уязвимостей Nikto
+![image](https://github.com/user-attachments/assets/e9cd348b-eb54-4e05-a03a-ac793da3becc)
 
+###   Wazuh Vulnerability detection
+![image](https://github.com/user-attachments/assets/a8e475f6-e8d8-45b2-b9c3-4e929da81513)
+
+### OpenVas
+При установке OpenVas возникла проблема с бесконесной загрузкой, правда невозможно так долго ждать.
+
+Nessus не дает вообще скачаться (санкции...).
+
+У меня есть чкткое представление работы сканера уязвимостей (на работе исрользую решение от Positive Technologies "MaxPatrol VM" или ScanOVAL по рекомендации ФСТЭК)
+
+![image](https://github.com/user-attachments/assets/6c92b2d9-b9de-40c0-8317-2b75b745e132)
+
+![image](https://github.com/user-attachments/assets/28ad2c65-2b61-45dc-b9c1-9ad61937ad77)
+
+![image](https://github.com/user-attachments/assets/40717a39-fa9f-4fd4-a51b-9b86244d9d8a)
 
 
 
