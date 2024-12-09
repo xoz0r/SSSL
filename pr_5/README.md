@@ -14,7 +14,8 @@
 ![image](https://github.com/user-attachments/assets/292d8808-ca30-4c8d-a67e-1d8afd81062f)
 
 
-
+Добавьте блок для анализа логов Suricata
+![image](https://github.com/user-attachments/assets/52a864a7-bc77-4480-b0ce-fdfeae1ad573)
 
 
 
